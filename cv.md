@@ -29,7 +29,7 @@ Junior Frontend Developer
 
 
 **Lyceum:** Brest State Vocational Lyceum of Light Industry.
-(Commercial activity, Operation of electronic computers)
+(Commercial activity, Operation of electronic computers).
 
 
 **Courses:**
