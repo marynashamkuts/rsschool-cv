@@ -1,6 +1,6 @@
 ### Maryna Shamkuts
 Junior Frontend Developer
-******************
+
 
 
 #### Contact information:
