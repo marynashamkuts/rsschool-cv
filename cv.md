@@ -7,6 +7,8 @@ Junior Frontend Developer
 ******************
 - Phone: +375297308712
 - E-mail: marynashamkuts@gmail.com
+- GitHub: [marynashamkuts](https://github.com/marynashamkuts)
+- Telegram: [marynashamkuts](https://t.me/marynashamkuts)
 
 
 
@@ -33,7 +35,7 @@ Junior Frontend Developer
 **Courses:**
 * RS Schools Course «JavaScript/Front-end. Stage 0» 
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
-
+* [JavaScript](https://learn.javascript.ru/JavaScript)
 
 
 #### Languages:
